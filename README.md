@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mrsfatima
+- 👋 Hi, I’m @fatima
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning sql,phython.
 - 💞️ I’m looking to collaborate on data and software related projects.
