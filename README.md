@@ -1,12 +1,42 @@
-- 👋 Hi, I’m @fatima
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Web Technologies.
-- 💞️ I’m looking to collaborate on data and software related projects.
-- ### 💼 Projects I've Contributed To :-
-- [Litlyzer](https://litlyzer.onrender.com): Contributed to the **frontend styling** using **CSS** to improve the UI/UX of the application.
-- [ZohraeSkin](https://fatimazohra1724.github.io/html-capstone-project-ZohraeSkin/):Static Website For information using "html" and "Css" to improve the style of Website .
-- 📫 How to reach me fatimafaique2024@gmail.com
-- 😄 Pronouns: her
-<!---fatima/fatima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Fatima
+
+I'm a tech enthusiast with a love for building clean and responsive web interfaces. Currently diving deeper into Web Technologies, and always excited to collaborate on data and software-driven projects.
+
+🌱 About Me
+
+👀 I’m interested in coding and web development
+
+🌱 Currently learning HTML, CSS, JavaScript and other Web Technologies
+
+💞️ Looking to collaborate on data-driven and software projects
+
+😄 Pronouns: her
+
+📫 Reach me at: fatimafaique2024@gmail.com
+
+💻 Projects & Contributions
+
+🧴 ZohraeSkin
+
+🔗 Live Site: https://fatimazohra1724.github.io/html-capstone-project-ZohraeSkin/
+
+🗂️ GitHub Repo: github.com/FatimaZohra1724/html-capstone-project-ZohraeSkin
+
+🛠️ Built a fully responsive skincare brand website using HTML and CSS. Focused on frontend design, layout, and mobile responsiveness.
+
+📚 Litlyzer
+
+🔗 Live Site: https://litlyzer.onrender.com
+
+🗂️ GitHub Repo: github.com/FatimaZohra1724/Litlyzer
+
+💡 Contributed to frontend by designing and implementing CSS styles to improve look, feel, and responsiveness.
+
+🧾 HTML Portfolio
+
+🔗 Live Site: https://fatimazohra1724.github.io/html-portfolio/
+
+🗂️ GitHub Repo: github.com/FatimaZohra1724/html-portfolio
+
+📄 A personal portfolio developed entirely with HTML, showcasing projects, skills, and contact info.
+
